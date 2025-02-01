@@ -1,0 +1,6 @@
+{
+    "server_ip": "6.tcp.us-cal-1.ngrok.io",
+    "server_port": 17341,
+    "host": "0.0.0.0",
+    "port": 8111
+}
